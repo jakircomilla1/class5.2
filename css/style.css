@@ -1,14 +1,14 @@
-/*reset code*/
+/*Reset code*/
 *{
 	margin:0 auto;
 	padding:0;
 }
 html, body{
-	margin:0 auto;
+	margin: 0 auto;
 	padding:0;
 }
-/*end reset code*/
-/*comon code*/
+/*End Reset Code*/
+/*Common Code */
 .float_left{
 	float:left;
 }
@@ -21,83 +21,62 @@ html, body{
 .width_100_per{
 	width:100%;
 }
-/*comon code end*/
-
+/* Common Code End */
 .header{
 	width:100%;
 	background:#222222;
 	color:#fff;
 }
 .top_menu{
-	
-	padding:14px 0px;
+	padding: 14px 0px;
 }
 .top_menu_date{
 	width:50%;
 	margin:0;
 	padding:0;
 }
-.top_menu_social_icon{
+.top_ment_social_icon{
 	width:50%;
 	margin:0;
 	padding:0;
 }
-.top_menu_social_icon ul{
+.top_ment_social_icon ul{
 	list-style-type:none;
 	margin:0;
 	padding:0;
 	overflow:hidden;
-	margin-top:-28px;
+	margin-top:-22px;
 }
-.top_menu_social_icon ul li{
+.top_ment_social_icon ul li{
 	float:left;
 }
-.top_menu_social_icon ul li a{
+.top_ment_social_icon ul li a{
 	display:inline-block;
-	text-align:ceter;
-	padding:7px 10px;
+	text-align:center;
+	padding:0px 10px;
 	text-decoration:none;
 	color:#fff;
 }
-.top_menu_social_icon img{
-	height:20px;
-	width:20px;
-	
+.top_ment_social_icon img{
+	height:30px;
+	width:30px;
 }
 .top_logo{
-	background-color:#fff;
-	
 	
 }
 .main_menu{
-	background-color:#fff;
-	float:left;
 	
 }
-.main_menu ul{list-style-type:none; margin:0 auto;}
-.main_menu ul li{float:left;}
-.main_menu ul li a{
-	padding: 10px 20px;
-    text-decoration: none;
-    text-align: center;
-    color: #000;
-    font-weight: 700;
-}
-.main_menu ul li a img{width:20px;height:20px;}
-.sub_main_menu{
-	
-}
-
-.brc_news{
+.brc_new{
 	
 }
 .feature{
 	
 }
-.news_1{
+.news_fst_sec{
 	
 }
-.news_2{
+.news_snd_sec{
 	
 }
 .footer{
