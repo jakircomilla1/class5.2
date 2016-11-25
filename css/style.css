@@ -62,9 +62,26 @@ html, body{
 	width:30px;
 }
 .top_logo{
+	background-color:#fff;
+	
 	
 }
 .main_menu{
+	background-color:#fff;
+	float:left;
+	
+}
+.main_menu ul{list-style-type:none; margin:0 auto;}
+.main_menu ul li{float:left;}
+.main_menu ul li a{
+	padding: 10px 20px;
+    text-decoration: none;
+    text-align: center;
+    color: #000;
+    font-weight: 700;
+}
+.main_menu ul li a img{width:20px;height:20px;}
+.sub_main_menu{
 	
 }
 .brc_new{
