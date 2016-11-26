@@ -189,7 +189,21 @@ z-index: 1;
 }
 
 .news_fst_sec{
-	
+	padding :14px 0px ;
+}
+.dont_miss_menu ul li{
+	float:left ;
+	overflow:hidden;	
+}
+.dont_miss_menu ul li a{
+	display:inline-block;
+	text-align:center;
+	padding:0px 10px;
+	text-decoration:none;
+	color:black;
+}
+.feature_image1{
+ 
 }
 .news_snd_sec{
 	
